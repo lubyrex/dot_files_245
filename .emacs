@@ -1,1 +1,2 @@
-/root/.emacs
+(global-font-lock-mode 0)
+
