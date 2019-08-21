@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/root/code/flaskr/pano_upload_folder/tmpaq7qpd3q'
+let g:netrw_dirhist_2='/root/code/flaskr/pano_upload_folder'
+let g:netrw_dirhist_3='/root/code/vrproc-tvideo'
+let g:netrw_dirhist_4='/root/code/vrproc-tvideo/handler'
+let g:netrw_dirhist_5='/root/code/vrproc-tvideo'
+let g:netrw_dirhist_6='/root/code/vrproc-tvideo/handler'
+let g:netrw_dirhist_7='/root/code/vrproc/models'
+let g:netrw_dirhist_8='/root/kube/dot8install'
